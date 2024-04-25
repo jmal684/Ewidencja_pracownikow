@@ -2,7 +2,7 @@
 ## Języki/technologie:
 - Java
 ## Funkcjonalności
-Jest to konsolowa aplikacja służąca do prowadzenia ewidencji pracowników. Posiada następujące funkcjonalności:
+Jest to konsolowa aplikacja napisana w modelu MVC, służąca do prowadzenia ewidencji pracowników. Posiada następujące funkcjonalności:
 - dodawanie pracowników
 - usuwanie pracowników
 - wyszukiwanie pracowaników
@@ -13,7 +13,7 @@ Jest to konsolowa aplikacja służąca do prowadzenia ewidencji pracowników. Po
 ## Languages/Technologies:
 - Java
 ## Functionalities:
-It is a console application created for managing workers's records. Functionalities:
+It is a console application written in a MVC model, created for managing workers's records. Functionalities:
 - adding wokers
 - deleting workers
 - browsing through records
